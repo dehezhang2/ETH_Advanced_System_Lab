@@ -1,4 +1,0 @@
-n=8388608 
-RDTSC instruction:
- 17564005.000000 cycles measured => 0.006505 seconds, assuming frequency is 2700.000000 MHz. (change in source file if different)
-
